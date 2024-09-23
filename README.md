@@ -1,4 +1,5 @@
 # TSR Key Generation
+![TSR Key Generation](images/triangle.png)
 
 A Python package for generating Triangular Spatial Representation (TSR) keys from protein-chain pairs.
 
